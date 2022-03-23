@@ -49,3 +49,7 @@ Contributors can clone the repository and reach out through the contacts provide
   For any questions about this project, please contact me at kenneth.maclean84@gmail.com. 
 
   Visit https://github.com/DoshPocket to access more of my projects.
+
+  ![JATE Home Screen](./client/src/images/jate-home.png)
+  ![JATE with Text](./client/src/images/jate-text.png)
+  ![JATE Service Worker](./client/src/images/jate-sw.png)
